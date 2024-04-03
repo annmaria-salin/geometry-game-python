@@ -1,4 +1,4 @@
-## Geometry-game-python
+## Geometry Game
 This Python-based geometry game is a fun and interactive way to learn about points, rectangles, and geometric concepts. The game generates a random rectangle and challenges the player to guess whether a given point is inside the rectangle and to estimate the area of the rectangle. It's a great tool for improving geometry knowledge while having fun.
 
 ## Features
